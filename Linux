@@ -3,4 +3,9 @@ sudo apt install --reinstall ubuntu-software
 *********************************************************************************************
 instalando virtual box, descargo tanto el virtual  como elextension  pack, instalo el virtual con el software center
 y luego abro el extensionpact con el virtualbox
+Configuraciones previas
+No me gusta tener mis maquinas virtuales y mis datos en la misma particion que tengo el sistema operativo porque
+si el sistema operativo se me rompe  y tengo que formatearlo, debo sacar previamente esos datos.
+Si est[a en otra particion u otro disco no tengo que sacar esos datos antes de formatear.
+
 ******************************************************************************************
