@@ -25,7 +25,23 @@ pues esto podria generar algun tipo de conflicto.
 vdi: sonlos discos duros virtuales de virtualbox, cada archivo vdi es un disco duro
 vmdk: es el formato para discos duros que usa vmware(es otro virtualizador, la competenciia de  virtualbox)
 Algoritmo  para la creacion de Maquinas Virtuales
+1 Escoger nombre y sistema operativo
+2 Cantidad de RAM
+3 Disco Duro VDI ya sea estatico o dinamico
+4 Seleccion del ISO de instalacion:Hay dos maneras, cuando inicio la maquina ella me  va a reguntar donde esta el iso, 
+o yo puedo configurar la ubicacion de la Iso previamente así: seleccionamos la maquina q vamos atrabajar,- Configuracion,
+podemos habilitar compartir portapapeles y arrastrar y pegar para facilitar la transcicion de  de arfimos entre la maquinaa
+anfitriona y la huesped EN la opcion de almacenamiento, selecciono el el controlador y luego cargo el archivo iso en el cd que esta vacio
+5 REd Adaptador Puente la basica es nat, una opcin es puente dode la mauina huesped esa al mismo nivel que la anfitriona
 
+En la opcion pantalla de cada maquina virtual, puedo habilitar la captura de video, para grabar todo lo que 
+sucede con la maquina virtual en formato video.
+ALMACENAMIENTO
+cONFIGURACION  de discos duros
+REDES  adaptador puente, modo promiscuo, permtir todo
+virtualbox tienen una herramienta por linea de comandos muy potente, se puede redimensionar discos desde alli
+e recomienda solo ampliar tamaños
 
+la tecla  host es control derecha me saca el raton de la maquina virtual
 
 ******************************************************************************************
