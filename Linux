@@ -1,0 +1,3 @@
+Reinstalando el centro de software
+sudo apt install --reinstall ubuntu-software
+*********************************************************************************************
