@@ -43,5 +43,28 @@ virtualbox tienen una herramienta por linea de comandos muy potente, se puede re
 e recomienda solo ampliar tamaños
 
 la tecla  host es control derecha me saca el raton de la maquina virtual
+Control derecho + a   ajusta el tamaño de las ventanas
+control derecho suprimir insertar control alt del
+control derecho + f   pantalla completa
+control derecho + r   reiniciar
+control derecho + t toamr una instantanea
+
+Una vez instalado el sistema operativo procedoa instalar las
+Guest Addition, incluye controladores y herramientas para la comunicacion huesped anfitrion usb y carpetas compartidas
+En el menu superior  Dispositivos intertar imagenes guest aditions
+
+LAS INSTANTANEAS  es una tecnologia q permite cometer errores y volver al paso anterior , para tomar una
+intantanea maquina-tomar instantanea
+
+si clono una maquina virtual, se copian sus instantaneas
+
+
+COMPARTIR CARPETAS ENTRE LA MAQINA VIRTUAL Y LA MAQUINA REAL
+CONFIGURACION  carpetas compartida- agrego la ruta de la carpeta
+solo lectura
+automontar  para que automatiamente aparezca cuando reinice la maquina 
+luego debo agregar mi usuario de linux, a los usuarios q pueden acceder a esa carpeta copartida
+
+sudo adduser myusuario vboxsf
 
 ******************************************************************************************
