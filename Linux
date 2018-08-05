@@ -7,5 +7,15 @@ Configuraciones previas
 No me gusta tener mis maquinas virtuales y mis datos en la misma particion que tengo el sistema operativo porque
 si el sistema operativo se me rompe  y tengo que formatearlo, debo sacar previamente esos datos.
 Si est[a en otra particion u otro disco no tengo que sacar esos datos antes de formatear.
+ENtonces una de las configuraciones que suelo hacer a menudo es cambiar la ubicacion de las maquinas virtuales
+Archivo/ Preferencias/  alli  puedo cambiar la ruta donde se almacenaran esas maquinas virtuales. Hay una carpeta por defecto, 
+yo puedo cambiar esa ruta.
+EN preferencias tambien puedo modificar el idioma
+FORMATOS DE ARCHIVOS MUY POPULARES EN VIRTUALBOX
+iso: imagenes de los cd o dvd que se usan en instalacion
+ovf:formato estandarizado para la migracion de maquinas virtuales en diferentes plataformas, en este formato 
+podemos instalar maquinas virtuales previamente configuradas y listas para servir
+vdi: sonlos discos duros virtuales de virtualbox, cada archivo vdi es un disco duro
+vmdk: es el formato para discos duros que usa vmware(es otro virtualizador, la competenciia de  virtualbox)
 
 ******************************************************************************************
