@@ -15,7 +15,17 @@ FORMATOS DE ARCHIVOS MUY POPULARES EN VIRTUALBOX
 iso: imagenes de los cd o dvd que se usan en instalacion
 ovf:formato estandarizado para la migracion de maquinas virtuales en diferentes plataformas, en este formato 
 podemos instalar maquinas virtuales previamente configuradas y listas para servir
+En la siguiente pagina puedo descargar maquinas virtuales ya previamente empaquetadas
+https://www.osboxes.org/virtualbox-images/
+Si yo quiero exportar una maquina virtual , ya configurada, selecciono la maquina a exportar, luego archivo, selecciono exportar 
+servicio virtualizado, y se exporta en el formato ovf,  es muy practico y es la mejor alternativa, tambien podria  copiar el 
+disco duro en formato vdmi, pero las configuraciones de hardware en ese caso no se exportarian y tendria que realizarlo de nuevo
+Advertencia!  Cuano desee exportar alguna maquina, en lo posible evitar que su tamaño de disco duro sea dinamico, 
+pues esto podria generar algun tipo de conflicto.
 vdi: sonlos discos duros virtuales de virtualbox, cada archivo vdi es un disco duro
 vmdk: es el formato para discos duros que usa vmware(es otro virtualizador, la competenciia de  virtualbox)
+Algoritmo  para la creacion de Maquinas Virtuales
+
+
 
 ******************************************************************************************
