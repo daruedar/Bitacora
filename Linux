@@ -1,3 +1,6 @@
 Reinstalando el centro de software
 sudo apt install --reinstall ubuntu-software
 *********************************************************************************************
+instalando virtual box, descargo tanto el virtual  como elextension  pack, instalo el virtual con el software center
+y luego abro el extensionpact con el virtualbox
+******************************************************************************************
